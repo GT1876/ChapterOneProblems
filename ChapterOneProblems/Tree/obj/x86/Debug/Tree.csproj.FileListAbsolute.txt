@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\Tree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\Tree\bin\Debug\Tree.exe
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\Tree\bin\Debug\Tree.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\Tree\obj\x86\Debug\Tree.exe
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\Tree\obj\x86\Debug\Tree.pdb

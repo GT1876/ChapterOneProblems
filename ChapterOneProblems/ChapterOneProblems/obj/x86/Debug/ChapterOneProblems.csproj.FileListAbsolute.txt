@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\ChapterOneProblems\bin\Debug\ChapterOneProblems.exe
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\ChapterOneProblems\bin\Debug\ChapterOneProblems.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\ChapterOneProblems\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\ChapterOneProblems\obj\x86\Debug\ChapterOneProblems.exe
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\ChapterOneProblems\obj\x86\Debug\ChapterOneProblems.pdb
