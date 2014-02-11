@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\Initals\bin\Debug\Initals.exe
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\Initals\bin\Debug\Initals.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\Initals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\Initals\obj\x86\Debug\Initals.exe
+C:\Users\eahscs\Documents\GitHub\ChapterOneProblems\ChapterOneProblems\Initals\obj\x86\Debug\Initals.pdb

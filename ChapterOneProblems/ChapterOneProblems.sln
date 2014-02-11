@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address", "Address\Address.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{B89698D0-BDEB-46EC-AA02-B6538BF875F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initals", "Initals\Initals.csproj", "{07F05FEF-96EB-452A-9730-6A690C9FB1A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +33,10 @@ Global
 		{B89698D0-BDEB-46EC-AA02-B6538BF875F2}.Debug|x86.Build.0 = Debug|x86
 		{B89698D0-BDEB-46EC-AA02-B6538BF875F2}.Release|x86.ActiveCfg = Release|x86
 		{B89698D0-BDEB-46EC-AA02-B6538BF875F2}.Release|x86.Build.0 = Release|x86
+		{07F05FEF-96EB-452A-9730-6A690C9FB1A9}.Debug|x86.ActiveCfg = Debug|x86
+		{07F05FEF-96EB-452A-9730-6A690C9FB1A9}.Debug|x86.Build.0 = Debug|x86
+		{07F05FEF-96EB-452A-9730-6A690C9FB1A9}.Release|x86.ActiveCfg = Release|x86
+		{07F05FEF-96EB-452A-9730-6A690C9FB1A9}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
